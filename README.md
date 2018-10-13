@@ -1,2 +1,2 @@
 # TitanicKaggle
-experiments using Titanic survival data set from Kaggle
+Very early experiments using Titanic survival data set from Kaggle
